@@ -1,0 +1,6 @@
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\GammaTestning\GammaProjekt\bin\Debug\GammaProjekt.exe.config
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\GammaTestning\GammaProjekt\bin\Debug\GammaProjekt.exe
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\GammaTestning\GammaProjekt\bin\Debug\GammaProjekt.pdb
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\GammaTestning\GammaProjekt\obj\Debug\GammaProjekt.csprojResolveAssemblyReference.cache
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\GammaTestning\GammaProjekt\obj\Debug\GammaProjekt.exe
+C:\Users\marcu\Desktop\VS grejjer\Testning av programvara\GammaTestning\GammaProjekt\obj\Debug\GammaProjekt.pdb
